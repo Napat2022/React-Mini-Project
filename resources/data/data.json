@@ -1,0 +1,69 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "username": "Hanabinihi",
+      "password": 123456789,
+      "name": "Yoimiya",
+      "lastName": "Naganohara",
+      "gender": "female",
+      "age": 17,
+      "email": "naganohara_yoi@gmail.com",
+      "tel": "0326586655",
+      "address": "Inazuma, Inazuma",
+      "thumbnail": "/images/member_pic/avatar_yoi.png"
+    },
+    {
+      "id": 2,
+      "username": "BoobaTea",
+      "password": 963258741,
+      "name": "Ayato",
+      "lastName": "Kamisato",
+      "gender": "Male",
+      "age": 22,
+      "email": "kamisato_ayato@gmail.com",
+      "tel": "0895589321",
+      "address": "Narukami, Inazuma",
+      "thumbnail": "/images/member_pic/avatar_ayato.png"
+    },
+    {
+      "id": 3,
+      "username": "Batman",
+      "password": "456321794",
+      "name": "Diluc",
+      "lastName": "Ragnvindr",
+      "gender": "Male",
+      "age": 22,
+      "email": "Diluc_rag@gmail.com",
+      "tel": "0971569445",
+      "address": "Dawn Winery, Mondstadt",
+      "thumbnail": "/images/member_pic/avatar_diluc.png"
+    },
+    {
+      "username": "Kanatawawasaosasae",
+      "password": "kanata2485",
+      "name": "Ayaka",
+      "lastName": "Kamisato",
+      "gender": "หญิง",
+      "age": "17",
+      "email": "ayaka_kamisato@gmail.com",
+      "tel": "0684443259",
+      "address": "Narukami, Inazuma",
+      "thumbnail": "/images/member_pic/avatar_ayaka.png",
+      "id": 4
+    },
+    {
+      "username": "Jadefalldown",
+      "password": "ning123456",
+      "name": "Ning",
+      "lastName": "Guang",
+      "gender": "หญิง",
+      "age": "25",
+      "email": "liyueqixing_ning@gmail.com",
+      "tel": "0879532488",
+      "address": "Liyue, Liyue",
+      "thumbnail": "/images/member_pic/avatar_ningguang.png",
+      "id": 5
+    }
+  ]
+}

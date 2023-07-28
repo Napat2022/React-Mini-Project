@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@1,500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mali', cursive;
+}
+
+body {
+  font-size: 1.125em;
+  line-height: 1.6;
+  color: #333;
+  background: #c5ccd2;
+}
+
+.title h1 {
+  color: rgb(255, 255, 255) ;
+  padding: 20px;
+  font-size: 50px;
+  text-align: left;
+}
+
+.title h2 {
+  color: rgb(255, 255, 255) ;
+  padding: 20px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.title h3 {
+  color: rgb(255, 255, 255) ;
+  padding: 10px;
+  font-size: 40px;
+  text-align: left;
+}
+.bg{
+  background-image:linear-gradient( rgba(0,0,0,1), rgba(0,0,0,0.5)), url('../public/images/logo/GI_wallpaper.jpg');
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  align-items: center;
+}
+
+.bgContact {
+  background-image:linear-gradient( rgba(0,0,0,1), rgba(0,0,0,0.5)), url('../public/images/logo/Kiyuri88.png');
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  align-items: center;
+}
